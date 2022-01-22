@@ -1,9 +1,7 @@
 {
-  "accessToken": "EAAJBijTUuhYBAMOI1CSADXt259pgAdKtR1OVNjn6rpxmlDXeQQN3bxOlKZAhw8GUCCwdcVvCSc9ZBmyGSIe2eq9BkZBOPDFaF0h0ZCYtuoOJRCkTPhgimEVU2nVVhQZB0KCB9NeyfG5K5hBliHLPrt2Um51g31qQc4Yx69NLYrd7l6KD4x4Q3",
-  "verifyToken": "4vBstQFfKDvckayJudlOvfYwJiuSacLS",
-  "appSecret": "d0715cc65d1fbe6b53df2b02fc1d9116",
+  "accessToken": "FB_ACCESS_TOKEN",
+  "verifyToken": "FB_VERIFY_TOKEN",
+  "appSecret": "FB_APP_SECRET",
   "botPort": 8007,
-  "botTunnelSubDomain": "bootbotflysafebotmow5ygfr",
-  "covidapikey" : "06bc653f00fe46b09bea54720188368d",
-  "googlecustomapi" : "AIzaSyCsMxn44e8lOUgsMOnQ0Uvo9yNCwo45CAU"
+  "botTunnelSubDomain": "BOOT_BOT_DOMAIN",
 }

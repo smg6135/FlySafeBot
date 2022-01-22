@@ -2,6 +2,8 @@
 
 Made with [BootBot CLI](https://github.com/Charca/bootbot-cli)
 
+Bot that helps you to fly safe abroad.
+
 ## Usage
 
 ```
